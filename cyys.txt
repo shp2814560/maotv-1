@@ -26,6 +26,7 @@ wabc(爱奇艺直采),https://wabc.ml/mao/2.php/provide/vod/at/xml,解析
 雪人官采,https://zl.chinafix.wang/api.php/provide/vod/at/xml,解析
 木子看剧,https://mzkj.maccms.cf/api.php/provide/vod/at/xml,解析
 步步高资源,https://api.yparse.com/api/xml,解析
+TOM资源,https://api.tomcaiji.com/api.php/provide/vod/at/xml,解析
 快车资源,https://caiji.kczyapi.com/api.php/provide/vod/at/xml,解析
 松鼠资源,https://m3u8.songshuzy.com/api.php/provide/vod/at/xml,解析
 OK资源,https://www.okcj.site/api/provide/vod/at/xml,解析
@@ -69,8 +70,11 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 旋风云,http://appimg.ssxmall.cn/api.php/provide/vod/at/xml,解析
 奈菲迷,https://app.netflixmi.com/ruifenglb_api.php/provide/vod/at/xml,解析
 鸭奈飞,http://newtv.yanaifei.cn/api.php/provide/vod/at/xml,解析
+鸭奈飞1,http://106.13.199.87:4433/api.php/provide/vod/at/xml,解析
 皮荼熊TV,https://www.psinu.com/api.php/provide/vod/at/xml,解析
 影世界,https://video.yingworld.vip/api.php/provide/vod/at/xml,解析
+XYUI,http://jx4.xyui.top:7001/api.php/provide/vod/at/xml,解析
+ASMR,http://www.asmr19.in/api.php/provide/vod/at/xml,解析
 饭后电影,http://yinliub.cn/api.php/provide/vod/at/xml,解析
 考拉TV,https://ikaola.tv/api.php/provide/vod/at/xml,解析
 荔枝影视,http://www.zjys.vip/api.php/provide/vod/at/xml,解析
@@ -82,11 +86,11 @@ U酷资源,https://api.ukuapi.com/api.php/provide/vod/at/xml,解析
 天天看,https://www.ttky8.com/api.php/provide/vod/at/xml,解析
 每天看看,http://47.113.126.237:1234/api.php/provide/vod/at/xml,解析
 一拳动漫,http://47.97.68.224/api.php/provide/vod/at/xml,解析
-饭团影视,http://television.wkfile.com/api.php/provide/vod/at/xml,解析
 BL视频,https://bljiex.com/api.php/provide/vod/at/xml,解析
 畅视影视,http://app.reboju.net/api.php/provide/vod/at/xml,解析
 OmoFun动漫,https://omofun.tv/api.php/provide/vod/at/xml,解析
 人人资源,http://www.rrzyw.cc/api.php/provide/vod/at/xml,解析
+人人影视,https://www.rrvipw.com/api.php/provide/vod/at/xml,解析
 小蜻蜓APP,http://3ketv.com/api.php/provide/vod/at/xml,解析
 乐活影视,https://lehootv.com/api.php/provide/vod/at/xml,解析
 星一蓝光,http://lgku.suboyun.cn/api.php/provide/vod/at/xml,解析
