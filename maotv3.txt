@@ -27,7 +27,7 @@
 
 
 # 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL3NoaXJhbjU4OC9tM3UvTWNyLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3NoaXJhbjU4OC9tM3UvTWNyLnR4dA=="]}]}],
 
 
 "sites":[
