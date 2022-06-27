@@ -47,7 +47,7 @@
 {"key":"4000资源","name":"4000资源","type":1,"api":"https://www.4000zy.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 {"key":"大雕资源","name":"大雕资源","type":1,"api":"http://www.caobi209.vip/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"色屌丝资源","name":"色屌丝资源","type":1,"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/vod/json","searchable":1,"quickSearch":1},
-{"key":"小姐姐资源","name":"小姐姐资源","type":1,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/json","searchable":1,"quickSearch":1},
+{"key":"小姐姐资源","name":"小姐姐资源","type":0,"api":"https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml","searchable":1,"quickSearch":1},
 {"key":"52AVAV","name":"52AVAV","type":1,"api":"https://52zyapi.com/home/cjapi/asda/mc10/vod/json","searchable":1,"quickSearch":1},
 {"key":"水帘洞资源","name":"水帘洞资源","type":1,"api":"https://www.sldcaiji.com/home/cjapi/s6da/mc10/vod/json","searchable":1,"quickSearch":1},
 {"key":"我要啪啪","name":"我要啪啪","type":1,"api":"http://www.caiji21.com/home/cjapi/klkl/mc10/vod/json","searchable":1,"quickSearch":1},
