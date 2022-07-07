@@ -25,9 +25,6 @@
 # 套Biubiu优化+LiteApple+Kuaikan规则 (没有PushAgent)
 "spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spriederdd.jar",
 
-# 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3NoaXJhbjU4OC9tM3UvTWNyLnR4dA=="]}]}],
-
 "sites": [    
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"523资源","name":"523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","playUrl":"https://api.523zyw.com/?url=","searchable":1,"quickSearch":1},
@@ -120,6 +117,98 @@
 {"key":"鲨鱼资源","name":"鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"速度资源","name":"速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1},
 {"key":"KK写真资源","name":"KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+# 直播
+"lives":[{
+    {
+      "group": "麻豆",
+      "channels": [
+        {
+          "name": "僕生中出人妻 篠田ゆう",
+          "urls": [
+            "http://videocdn.quweikm.com:8091/20180730/SET-009c/index.m3u8"
+          ]
+        },
+        {
+          "name": "抜14発中出  武井麻希",
+          "urls": [
+            "http://videocdn.quweikm.com:8091/20180730/SERO-0205c/index.m3u8"
+          ]
+        },
+        {
+          "name": "男性主導の体位 上原亜衣",
+          "urls": [
+            "http://videocdn.quweikm.com:8091/20180730/SERO-0272c/index.m3u8"
+          ]
+        },
+        {
+      "group": "果冻",
+      "channels": [
+        {
+          "name": "家教老师的肉体奖励",
+          "urls": [
+            "https://v4.jiufanrj.com/20220418/HJkSunPI/2000kb/hls/index.m3u8"
+          ]
+        },
+        {
+          "name": "新人的肉体奉献",
+          "urls": [
+            "https://v4.jiufanrj.com/20220409/r8puMXIi/2000kb/hls/index.m3u8"
+          ]
+        },
+        {
+          "name": "熟女上司的性解放",
+          "urls": [
+            "https://v4.jiufanrj.com/20220307/UctqmW7c/2000kb/hls/index.m3u8"
+          ]
+        },
+        {
+      "group": "精东",
+      "channels": [
+        {
+          "name": "强奸蛋糕店年轻老板娘",
+          "urls": [
+            "https://v4.jiufanrj.com/20220418/fyhRoNtV/2000kb/hls/index.m3u8"
+          ]
+        },
+        {
+          "name": "女子凌辱学院奈奈篇",
+          "urls": [
+            "https://v4.jiufanrj.com/20220418/m3SUYQ5o/2000kb/hls/index.m3u8"
+          ]
+        },
+        {
+          "name": "舔狗的逆襲",
+          "urls": [
+            "https://v4.jiufanrj.com/20220416/DX0xXDKK/2000kb/hls/index.m3u8"
+          ]
+        },
+        {
+      "group": "乐播",
+      "channels": [
+        {
+          "name": "玩弄大哥的女僕",
+          "urls": [
+            "https://v4.jiufanrj.com/20220416/BcKD2ibR/2000kb/hls/index.m3u8"
+          ]
+        },
+        {
+          "name": "寂寞小媽迷姦繼子",
+          "urls": [
+            "https://v4.jiufanrj.com/20220416/zwwtBe9Q/2000kb/hls/index.m3u8"
+          ]
+        },
+        {
+          "name": "招妓",
+          "urls": [
+            "https://v4.jiufanrj.com/20220416/uRUB73ap/2000kb/hls/index.m3u8"
+          ]
+        }
+      ]
+    }
+  ],
+
+
 #
 # 推送功能扩展（需v2.1.0.Beta6及以上版本）
 # 需要在配置文件中，加入key为push_agent的站点，数据返回格式和普通爬虫一致
